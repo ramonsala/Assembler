@@ -1,4 +1,0 @@
-Assembler
-=========
-
-Assembly software
